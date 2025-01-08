@@ -20,7 +20,7 @@ This is a fictional project and does not require any specific technical prerequi
 To get a copy of this project on your local machine, open your terminal and type:
 
 ```bash
-[git clone https://github.com/IsmailKamaal/Essentiel.git]
+git clone https://github.com/IsmailKamaal/Essentiel.git
 ```
 ### How to contribute
 Although this project is a template, if you have ideas for improvements or additional features, you are welcome to contribute! You can do so by creating a pull request or by opening an issue to suggest changes.
